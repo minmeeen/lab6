@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int a  =  20; 
-	float b = 30;
+	float b = 30.0;
     int c = 4;
 	float output;
 
